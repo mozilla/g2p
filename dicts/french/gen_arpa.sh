@@ -7,5 +7,4 @@ sphinx_lm_convert -ifmt arpa -i model.arpa -o model.dic.dmp
 sphinx_lm_convert -i model.dic.dmp -o model.lm.bin
 
 rm model.corpus
-rm model.arpa
 rm model-incomplete.arpa
