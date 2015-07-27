@@ -7,7 +7,11 @@
 0. Install openfst from deps/ folder
 0. Install phonetisaurus from root folder
 0. Install srilm from deps/ folder
-0. Install pocketsphinx (http://cmusphinx.sourceforge.net/wiki/tutorialpocketsphinx)
+
+#### Install Sphinxbase (attention to sphinxbase version)
+0. Sphinxbase: Since gecko-dev uses an outdated version of sphinxbase, this specific commit (https://github.com/cmusphinx/sphinxbase/tree/18aec4d11c5fc724a15f899bc1222bfcfe589def) should be used, otherwise generated models will be incompatible with Gecko's sphinxbase and will fail to load  
+0. Instructions: http://cmusphinx.sourceforge.net/wiki/tutorialpocketsphinx
+
 
 ### Generating the models
 0. From inside dicts/ folder, execute gen_arpa.sh from each language you want arpa models to be build
