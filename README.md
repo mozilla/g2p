@@ -8,10 +8,9 @@
 0. Install phonetisaurus from root folder
 0. Install srilm from deps/ folder
 
-#### Install Pocketsphinx (attention to sphinxbase version)
-0. Instructions: http://cmusphinx.sourceforge.net/wiki/tutorialpocketsphinx
+#### Install Sphinxbase (attention to sphinxbase version)
 0. Sphinxbase: Since gecko-dev uses an outdated version of sphinxbase, this specific commit (https://github.com/cmusphinx/sphinxbase/tree/18aec4d11c5fc724a15f899bc1222bfcfe589def) should be used, otherwise the models generated will be incompatible with Gecko's current sphinxbase implementation and will fail to load  
-0. Pocketsphinx: Install from master https://github.com/cmusphinx/pocketsphinx/
+0. Instructions: http://cmusphinx.sourceforge.net/wiki/tutorialpocketsphinx
 
 
 ### Generating the models
