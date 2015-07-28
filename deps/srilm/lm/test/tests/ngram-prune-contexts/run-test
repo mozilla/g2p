@@ -1,9 +1,0 @@
-#!/bin/sh
-
-# test if ngram context are pruned correctly
-
-ngram -debug 1 \
-	-lm test.bo \
-	-prune 1e-7 \
-	-write-lm -
-

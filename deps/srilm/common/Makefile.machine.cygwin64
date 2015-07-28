@@ -1,5 +1,0 @@
-
-# So far no differences between 32bit and 64bit cygwin builds
-
-include $(SRILM)/common/Makefile.machine.cygwin
-

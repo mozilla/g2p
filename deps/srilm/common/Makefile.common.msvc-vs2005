@@ -1,2 +1,0 @@
-# Use this default location unless overridden on command line
-MSVCDIR ?= C:\\Program Files\\Microsoft Visual Studio 8\\VC

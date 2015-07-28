@@ -1,6 +1,0 @@
-# Makefile to augment Makefile.machine.msvc for Visual Studio 2005 for x86 platform
-
-include $(SRILM)/common/Makefile.common.msvc-vs2005
-include $(SRILM)/common/Makefile.machine.msvc
-
-MS_CODE_OPTION=/MT
