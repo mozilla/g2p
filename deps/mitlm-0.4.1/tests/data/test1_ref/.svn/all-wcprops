@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/84/trunk/tests/data/test1_ref
+END
+wc.b.hyp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/84/trunk/tests/data/test1_ref/wc.b.hyp
+END
+wrc.a.hyp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/84/trunk/tests/data/test1_ref/wrc.a.hyp
+END
+wrc.b.hyp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/84/trunk/tests/data/test1_ref/wrc.b.hyp
+END
+wec.a.hyp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/84/trunk/tests/data/test1_ref/wec.a.hyp
+END
+wec.b.hyp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/84/trunk/tests/data/test1_ref/wec.b.hyp
+END
+wl.a.hyp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/84/trunk/tests/data/test1_ref/wl.a.hyp
+END
+wl.b.hyp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/84/trunk/tests/data/test1_ref/wl.b.hyp
+END
+wlc.a.hyp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/84/trunk/tests/data/test1_ref/wlc.a.hyp
+END
+wlc.b.hyp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/84/trunk/tests/data/test1_ref/wlc.b.hyp
+END
+wc.a.hyp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/84/trunk/tests/data/test1_ref/wc.a.hyp
+END
